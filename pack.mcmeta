@@ -1,6 +1,1 @@
-{
-    "pack": {
-        "description": "Half the size, half the calories!",
-        "pack_format": 4
-    }
-}
+{"pack":{"pack_format":5,"description":"Half the size, half the calories!\n§6V1.15 By Dokucraft TSC"},"meta":{"game_version":"1.15"}}
