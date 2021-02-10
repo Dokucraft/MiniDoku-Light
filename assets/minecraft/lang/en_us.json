@@ -37,7 +37,7 @@
   "itemGroup.combat": "\u00a7fCombat",
   "itemGroup.brewing": "\u00a7fBrewing",
   "itemGroup.materials": "\u00a7fMaterials",
-  "itemGroup.inventory": "\u00a7fSurvival Inventory",
+  "itemGroup.inventory": "\u00a7fInventory",
   "itemGroup.hotbar": "\u00a7fSaved Toolbars",
 
   "merchant.level.1": "\u00a7fNovice",
@@ -107,21 +107,31 @@
   "selectWorld.gameMode.hardcore": "\u00A74Hardcore",
   "selectWorld.hardcoreMode": "\u00A74Hardcore:",
 
-  "options.resourcepack": "Resource Packs",
+  "options.resourcepack": "\uF80A\uF806§r Resource Packs",
   "options.snooper.view": "Snooper Settings",
-  "options.skinCustomisation": "Skin Customization",
-  "options.accessibility.title": "Accessibility Settings",
+  "options.skinCustomisation": "\uF809\uF808\uF807§r Skin Customization",
+  "options.accessibility.title": "\uF808\uF807§r Accessibility Settings",
   "options.multiplayer.title": "Multiplayer Settings",
   "options.mouse_settings": "Mouse Settings",
-  "options.sounds": "Music & Sounds",
-  "options.language": "Language",
-  "options.video": "Video Settings",
-  "options.controls": "Controls",
-  "options.chat.title": "Chat Settings",
+  "options.sounds": "\uF80A\uF808\uF804§r Music & Sounds",
+  "options.language": "\uF80B\uF808§r Language",
+  "options.video": "\uF80A\uF809\uF801§r Video Settings",
+  "options.controls": "\uF80B\uF808\uF803§r Controls",
+  "options.chat.title": "\uF80A\uF809\uF806§r Chat Settings",
   "options.difficulty.hardcore": "\u00A74Hardcore",
+  "options.off": "\u00A74OFF",
+  "options.on": "\u00A72ON",
+  "options.biomeBlendRadius.1": "\u00A74OFF\u00A7r (Fastest)",
+  "options.ao.off": "\u00A74OFF",
+  "options.narrator.off": "\u00A74OFF",
 
   "resourcePack.openFolder": "Resource Pack Folder",
-  "resourcePack.title": "§4(Please use Optifine!!)    §fResource Packs    §4(Please use Optifine!!)",
+  "resourcePack.title": "\u00A74(Please use Optifine!!)    \u00A7rResource Packs    \u00A74(Please use Optifine!!)",
 
-  "item.minecraft.music_disc_11.desc": "What the Forest Taught Me"
+  "item.minecraft.music_disc_11.desc": "What the Forest Taught Me",
+
+  "menu.singleplayer": "§r\uA840\uF826\uF824\uF828\uF82A\u00A7f連\u00A7r Singleplayer\uF824\uF828\uF82A\uA841",
+  "menu.multiplayer": "§r\uA840\uF826\uF829\uF82A\u00A7f連\u00A7r Multiplayer\uF829\uF82A\uA841",
+  "menu.online": "§r\uA840\uF83A\uF827\u00A7f連\u00A7r Minecraft Realms\uF821\uF82A\uA841",
+  "selectServer.direct": "Direct Connect"
 }
